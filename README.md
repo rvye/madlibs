@@ -1,3 +1,3 @@
 # madlibs
 
-for an assignment
+school assignment
